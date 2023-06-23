@@ -27,5 +27,3 @@
 2. [Hard Hat Workers Dataset (roboflow.com)](https://public.roboflow.com/object-detection/hard-hat-workers)
 
 3. [ultralytics · PyPI](https://pypi.org/project/ultralytics/)
-
-4. 
