@@ -1,5 +1,8 @@
 # Lista de artigos interessantes sobre o tema
 
+## Tema
+- Aplicação de visão computacional para auxiliar no uso de EPIs: sugestão de uma ferramenta baseada em visão computacional para detecção de EPI's no posto de trabalho. 
+
 ## 1. Detecção de capacete de segurança
 
 - [Safety Helmet Detection Based on YOLOv5 | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9362711?casa_token=N7v0h2V9wmoAAAAA:nPop98XhZ8SEsKjxsCKhQffQMnvxSKXse9fT2qeNiuHILvCjwKZSBBDJM0XMHp1HkGomvwcgSBY)
